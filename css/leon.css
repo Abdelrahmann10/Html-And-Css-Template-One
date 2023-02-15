@@ -434,6 +434,7 @@ header .links ul a:hover {
     .about-content .image,
     .about-content .image::after {
         margin: 0 auto 60px;
+        right:-15px;
     }
 
     .about-content .image::before,
